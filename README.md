@@ -68,14 +68,6 @@ This system helps local communities and environmental agencies monitor air quali
 - Output: 20x4 LCD, LEDs, Blynk mobile app.  
 - Power: NodeMCU + power bank (or solar panel).  
 
-### 🔹 **Block Diagram**
-<img width="479" height="568" alt="image" src="https://github.com/user-attachments/assets/30859b19-a39b-4e64-8a65-d1183a1dbc1c" />
-
-- **Sensors (Input):** MQ-135, DHT11, Ultrasonic.  
-- **Controller:** NodeMCU ESP8266.  
-- **Outputs:** LCD Display, Blynk IoT app, LEDs.  
-- **Power:** USB power bank / Solar charging.  
-
 ---
 
 ## 🔄 **System Flow**
