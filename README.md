@@ -104,7 +104,7 @@ This system helps local communities and environmental agencies monitor air quali
 
 ---
 
-## 🚀** How to Run the Project**
+## 🚀**How to Run the Project**
 1. Open the Arduino IDE & open the project file.
 2. Install required libraries:
 - ESP8266 board manager.
@@ -147,11 +147,11 @@ It is:
 
 ---
 
-## 📜 License
+## 📜 **License**
 This project is licensed under the [MIT License](./LICENSE).  
 
 ---
 
-## 🙌 Acknowledgements
+## 🙌 **Acknowledgements**
 - Developed as part of **IoT course project**.  
 - Thanks to instructors and teammates for valuable feedback and collaboration.  
