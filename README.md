@@ -148,10 +148,4 @@ It is:
 ---
 
 ## 📜 **License**
-This project is licensed under the [MIT License](./LICENSE).  
-
----
-
-## 🙌 **Acknowledgements**
-- Developed as part of **IoT course project**.  
-- Thanks to instructors and teammates for valuable feedback and collaboration.  
+This project is for educational purposes under NMJ31903 - Group Design Project coursework. You may modify and use this project for learning, but proper credit to the author is appreciated.
